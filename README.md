@@ -10,7 +10,7 @@ A real-time telephony voice agent built with Python, FastAPI, Twilio Media Strea
 ## Prerequisites
 
 Before you begin, ensure you have the following:
-
+dwa
 1.  **Python 3.7+:** Installed on your system.
 2.  **Twilio Account:** With a phone number capable of receiving voice calls and configured for webhooks.
 3.  **Deepgram Account:** Obtain an API key for STT and TTS.
